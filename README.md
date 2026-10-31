@@ -10,7 +10,7 @@
 | [CH2](docs/ch02.md) | MLOps란 무엇인가 | 완료 |
 | [CH3](docs/ch03.md) | 쿠버네티스 기초 | 요약 |
 | [CH4](docs/ch04.md) | 신뢰할 수 있는 ML 시스템 설계 (MLflow, Feast) | 완료 |
-| [CH5](docs/ch05.md) | Kubeflow Pipelines 시작 (설치, 첫 파이프라인) | 진행 중 |
+| [CH5](docs/ch05.md) | ML 파이프라인 오케스트레이션 (Kubeflow Pipelines) | 완료 |
 
 ## 책에서 쓰는 스택
 
