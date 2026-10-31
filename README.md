@@ -9,6 +9,7 @@
 | [CH1](docs/ch01.md) | MLOps와 ML 엔지니어링 시작 | 완료 |
 | [CH2](docs/ch02.md) | MLOps란 무엇인가 | 완료 |
 | [CH3](docs/ch03.md) | 쿠버네티스 기초 | 요약 |
+| [CH4](docs/ch04.md) | 신뢰할 수 있는 ML 시스템 설계 (MLflow, Feast) | 완료 |
 
 ## 책에서 쓰는 스택
 
