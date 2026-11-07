@@ -12,6 +12,7 @@
 | [CH4](docs/ch04.md) | 신뢰할 수 있는 ML 시스템 설계 (MLflow, Feast) | 완료 |
 | [CH5](docs/ch05.md) | ML 파이프라인 오케스트레이션 (Kubeflow Pipelines) | 완료 |
 | [CH6](docs/ch06.md) | ML 모델 프로덕션화 (BentoML, Evidently) | 완료 |
+| [CH7](docs/ch07.md) | 데이터 분석과 준비 (Kubeflow Notebooks, KFP 데이터 전달) | 진행 중 (7.2.1까지) |
 
 ## 책에서 쓰는 스택
 
