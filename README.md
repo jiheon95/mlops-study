@@ -13,6 +13,7 @@
 | [CH5](docs/ch05.md) | ML 파이프라인 오케스트레이션 (Kubeflow Pipelines) | 완료 |
 | [CH6](docs/ch06.md) | ML 모델 프로덕션화 (BentoML, Evidently) | 완료 |
 | [CH7](docs/ch07.md) | 데이터 분석과 준비 (Kubeflow Notebooks, KFP 데이터 전달) | 진행 중 (7.2.1까지) |
+| [CH8](docs/ch08.md) | 노드 기능 선택과 파드 배치 (어피니티, 테인트/톨러레이션, 토폴로지 분산) | 완료 |
 
 ## 책에서 쓰는 스택
 
